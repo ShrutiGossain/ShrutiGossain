@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShrutiGossain
-- 👀 I’m interested in Open Source Contrbution
+- 👀 I’m interested in Open Source Contribution
 - 🌱 I’m currently learning Web Development
 
 <!---
