@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shruti!</h1>
+<h1 align="center"><img src="https://emojis.slackemojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/ Hi 👋, I'm Shruti!</h1>
 <h3 align="center">Web Developer || Open Source Contributer || Problem Solving Enthusiast</h3>
-
+![GitHub Views](https://komarev.com/ghpvc/?username=shrutigossain&color=0e75b6)
 
 
 - 🌱 I’m currently learning **Web Development**
