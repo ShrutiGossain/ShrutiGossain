@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Shruti!</h1>
-<h3 align="center">Web Developer || Open Source Contributer || Problem Solving Enthusiast</h3>
+<h3 align="center">Web Developer || Open Source Contributor || Problem Solving Enthusiast</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=shrutigossain&color=0e75b6)
 
