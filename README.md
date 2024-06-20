@@ -13,6 +13,16 @@
 
 <p><a href="https://www.buymeacoffee.com/Shruti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shruti" /></a></p><br><br>
 
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrutigossain&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   
+  </tr>
+</table>
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sgossain5152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sgossain5152" height="30" width="40" /></a>
