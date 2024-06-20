@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript**
   
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects** <br>
 
 <p><a href="https://www.buymeacoffee.com/Shruti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shruti" /></a></p><br>
 <br>
@@ -33,5 +33,5 @@
 <a href="https://instagram.com/shrutix_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrutix_07" height="30" width="40" /></a>
 </p>
 
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutigossain&show_icons=true&locale=en&layout=compact" alt="shrutigossain" /></p>
