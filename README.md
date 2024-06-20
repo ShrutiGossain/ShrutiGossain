@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shruti Gossain</h1>
+<h1 align="center">  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Shruti Gossain</h1>
 <h3 align="center">Web Developer || Open Source Contributor || Problem Solving Enthusiast</h3>
 
 - 🔭 I’m currently working on **HRhorizon**
