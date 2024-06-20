@@ -1,5 +1,7 @@
 <h1 align="center"> Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Shruti Gossain</h1>
 <h3 align="center">Web Developer || Open Source Contributor || Problem Solving Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutigossain&label=Profile%20views&color=0e75b6&style=flat" alt="shrutigossain" /> </p>
+
 
 - 🔭 I’m currently working on **HRhorizon**
 
@@ -7,7 +9,6 @@
   
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutigossain&label=Profile%20views&color=0e75b6&style=flat" alt="shrutigossain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutigossain" alt="shrutigossain" /></a> </p>
 
